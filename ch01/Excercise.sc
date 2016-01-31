@@ -59,8 +59,6 @@ someString.last
 
 
 val N10 = "#10 - What do the take, drop, takeRight, and dropRight string functions do? What\nadvantage or disadvantage do they have over using substring?"
-//*What do the 'take', 'drop', 'takeRight', and 'dropRight' string functions do?
-//*What advantage or disadvantage do they have over using 'substring'?
 someString.take(3)
 someString.substring(0, 3)
 someString.drop(3)
